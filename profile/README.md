@@ -1,5 +1,5 @@
 <h4 align="center"><samp> 
-  Welcome to the NoBIAS ITN repository 
+  Welcome to the NoBIAS: AI Without Bias ITN repository 
 </samp></h4>
 
 <div align='center'>
